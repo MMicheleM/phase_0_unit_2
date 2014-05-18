@@ -58,3 +58,38 @@
 
 
 # 4. Reflection 
+=begin
+	
+* What parts of your strategy worked? What problems did you face?    
+	The figuring out that using existing Array class would help took a bit
+	to research/figure out. The destrucitve/non-destructive was easy enough
+	thanks to ruby-docs. And the size reference was straightforward.
+
+
+* What questions did you have while coding? What resources did you find to help you answer them?  
+	General syntax questions. How to handle non-destructive took a bit of finagling.
+	
+
+* What concepts are you having trouble with, or did you just figure something out? If so, what?  
+	Not sure if I knew about self in pre-Phase 0 work but it was a good (re-)discovery.
+
+
+* Did you learn any new skills or tricks?
+	Patience. Feel like it's a lot of "was on, wax off" at this point.
+
+* How confident are you with each of the Learning Competencies? 
+	Using tests to guide: getting stronger all the time. Ditto pseudocode. Differentiate
+	between destructive and non-destructive: solid. Find/use existing methods: pretty solid.
+
+* Which parts of the challenge did you enjoy?
+	Feeling like I mostly understand 
+
+* Which parts of the challenge did you find tedious?
+	Going through periods of having to walk away from the code when it wasn't working.
+
+
+	
+=end
+
+
+
