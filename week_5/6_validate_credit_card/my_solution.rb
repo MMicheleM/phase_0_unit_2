@@ -55,39 +55,40 @@ end
 
 
 # 5. Reflection 
+
 =begin
 	
-* What parts of your strategy worked? What problems did you face?    
-	The general plan of action was sound - it was getting the syntax sorted out that proved to
-	be our challenge. 
+	* What parts of your strategy worked? What problems did you face?    
+		The general plan of action was sound - it was getting the syntax sorted out that proved to
+		be our challenge. 
 
-* What questions did you have while coding? What resources did you find to help you answer them?  
-	How to select every other entry from an array to double - Max had come across Step and it
-	proved to be perfect for that.  How to split the double digit doubled numbers. Google was
-	our friend.
+	* What questions did you have while coding? What resources did you find to help you answer them?  
+		How to select every other entry from an array to double - Max had come across Step and it
+		proved to be perfect for that.  How to split the double digit doubled numbers. Google was
+		our friend.
 
-* What concepts are you having trouble with, or did you just figure something out? If so, what?  
-	I'm still challenged by writing my own driver tests - but that wasn't a part of this
-	challenge. (More just something I'm keenly aware of.) And my general knowledge - while
-	likely on par for where it should be - is, at times, frustrating. Mostly that's just
-	me hating the fact I don't just know/retain everything immediately. 
+	* What concepts are you having trouble with, or did you just figure something out? If so, what?  
+		I'm still challenged by writing my own driver tests - but that wasn't a part of this
+		challenge. (More just something I'm keenly aware of.) And my general knowledge - while
+		likely on par for where it should be - is, at times, frustrating. Mostly that's just
+		me hating the fact I don't just know/retain everything immediately. 
 
-* Did you learn any new skills or tricks?
-	The use of Step was cool.
+	* Did you learn any new skills or tricks?
+		The use of Step was cool.
 
-* How confident are you with each of the Learning Competencies? 
-	Iterate - getting stronger all the time; concept is stronger than my execution.
-	Manipulate - ditto.
-	Decompose problems - solid.
-	Find built-in Ruby methodologies - solid in how to, but would say still a little challenged 
-	in that I often don't know what I'm looking for and so am more blind, dumb luck-ing my
-	way across new methods that I'm incorporating.
+	* How confident are you with each of the Learning Competencies? 
+		Iterate - getting stronger all the time; concept is stronger than my execution.
+		Manipulate - ditto.
+		Decompose problems - solid.
+		Find built-in Ruby methodologies - solid in how to, but would say still a little challenged 
+		in that I often don't know what I'm looking for and so am more blind, dumb luck-ing my
+		way across new methods that I'm incorporating.
 
-* Which parts of the challenge did you enjoy?
-	Working with Max was great - he's a phenomenal pair!  Also really liked figuring out how
-	to double every other item.
+	* Which parts of the challenge did you enjoy?
+		Working with Max was great - he's a phenomenal pair!  Also really liked figuring out how
+		to double every other item.
 
-* Which parts of the challenge did you find tedious?
-	As always, my lack of knowledge.
+	* Which parts of the challenge did you find tedious?
+		As always, my lack of knowledge.
 
-= end
+=end
