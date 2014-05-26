@@ -58,7 +58,6 @@ def get_column(board, column)  # def method takes 2 params (board name & col #)
 end								# then call board and column number and get the col values
 
 
-<<<<<<< HEAD
 # Refactored Solution
 
 # I know, thanks to Avi's post to the Rockets' board, that I should be able to refactor my
@@ -78,5 +77,4 @@ puts get_column(boggle_board, 1) == ["r", "o", "c", "a"]
 # Reflection 
 
 # Again a straightforward exercise - thoroughly enjoyable.   
-=======
->>>>>>> 512fd958eed5454aacf5a3031f8ded2881b9a377
+
